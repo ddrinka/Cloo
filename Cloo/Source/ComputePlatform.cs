@@ -29,14 +29,14 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 #endregion
 
+using System;
+using System.Collections.Generic;
+using System.Collections.ObjectModel;
+using System.Diagnostics;
+using Cloo.Bindings;
+
 namespace Cloo
 {
-    using System;
-    using System.Collections.Generic;
-    using System.Collections.ObjectModel;
-    using System.Diagnostics;
-    using Cloo.Bindings;
-
     /// <summary>
     /// Represents an OpenCL platform.
     /// </summary>

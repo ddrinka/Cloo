@@ -29,11 +29,11 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 #endregion
 
+using System;
+using System.Diagnostics;
+
 namespace Cloo
 {
-    using System;
-    using System.Diagnostics;
-
     /// <summary>
     /// Represents an OpenCL resource.
     /// </summary>

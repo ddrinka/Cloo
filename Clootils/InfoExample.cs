@@ -31,7 +31,6 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 using System;
 using System.IO;
-using System.Text;
 using Cloo;
 
 namespace Clootils

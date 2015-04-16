@@ -29,12 +29,12 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 #endregion
 
+using System;
+using System.Runtime.InteropServices;
+using Cloo.Bindings;
+
 namespace Cloo
 {
-    using System;
-    using System.Runtime.InteropServices;
-    using Cloo.Bindings;
-
     /// <summary>
     /// Represents an OpenCL buffer.
     /// </summary>

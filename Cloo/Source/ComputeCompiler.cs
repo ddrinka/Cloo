@@ -29,10 +29,10 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 #endregion
 
+using Cloo.Bindings;
+
 namespace Cloo
 {
-    using Cloo.Bindings;
-
     /// <summary>
     /// Represents the OpenCL compiler.
     /// </summary>

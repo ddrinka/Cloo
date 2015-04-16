@@ -29,13 +29,13 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 #endregion
 
+using System;
+using System.Diagnostics;
+using System.Threading;
+using Cloo.Bindings;
+
 namespace Cloo
 {
-    using System;
-    using System.Diagnostics;
-    using System.Threading;
-    using Cloo.Bindings;
-
     /// <summary>
     /// Represents the parent type to any Cloo buffer types.
     /// </summary>

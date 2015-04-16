@@ -29,16 +29,16 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 #endregion
 
+using System;
+using System.Collections.Generic;
+using System.Collections.ObjectModel;
+using System.Diagnostics;
+using System.Runtime.InteropServices;
+using System.Threading;
+using Cloo.Bindings;
+
 namespace Cloo
 {
-    using System;
-    using System.Collections.Generic;
-    using System.Collections.ObjectModel;
-    using System.Diagnostics;
-    using System.Runtime.InteropServices;
-    using System.Threading;
-    using Cloo.Bindings;
-
     /// <summary>
     /// Represents an OpenCL program.
     /// </summary>

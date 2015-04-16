@@ -29,11 +29,11 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 #endregion
 
+using System;
+using System.Runtime.InteropServices;
+
 namespace Cloo
 {
-    using System;
-    using System.Runtime.InteropServices;
-
     /// <summary>
     /// A structure of three integers of platform specific size.
     /// </summary>

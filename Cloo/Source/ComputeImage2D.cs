@@ -29,12 +29,12 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 #endregion
 
+using System;
+using System.Collections.Generic;
+using Cloo.Bindings;
+
 namespace Cloo
 {
-    using System;
-    using System.Collections.Generic;
-    using Cloo.Bindings;
-
     /// <summary>
     /// Represents an OpenCL 2D image.
     /// </summary>

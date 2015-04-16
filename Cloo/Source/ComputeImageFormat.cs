@@ -29,11 +29,11 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 #endregion
 
+using System.Diagnostics;
+using System.Runtime.InteropServices;
+
 namespace Cloo
 {
-    using System.Diagnostics;
-    using System.Runtime.InteropServices;
-
     /// <summary>
     /// Represents an OpenCL image format.
     /// </summary>

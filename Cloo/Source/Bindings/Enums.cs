@@ -29,10 +29,10 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 #endregion
 
+using System;
+
 namespace Cloo
 {
-    using System;
-
     /// <summary>
     /// The OpenCL error codes.
     /// </summary>

@@ -29,12 +29,12 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 #endregion
 
+using System;
+using System.Collections.Generic;
+using System.Runtime.InteropServices;
+
 namespace Cloo
 {
-    using System;
-    using System.Collections.Generic;
-    using System.Runtime.InteropServices;
-
     public partial class ComputeCommandQueue
     {
         #region CopyBuffer

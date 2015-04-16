@@ -29,15 +29,14 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 #endregion
 
+using System;
+using System.Collections.Generic;
+using System.Globalization;
 using System.Runtime.InteropServices;
+using Cloo.Bindings;
 
 namespace Cloo
 {
-    using System;
-    using System.Collections.Generic;
-    using System.Globalization;
-    using Cloo.Bindings;
-
     /// <summary>
     /// Contains various helper methods.
     /// </summary>

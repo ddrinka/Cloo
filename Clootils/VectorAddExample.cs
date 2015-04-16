@@ -30,10 +30,7 @@ OTHER DEALINGS IN THE SOFTWARE.
 #endregion
 
 using System;
-using System.Collections.Generic;
-using System.Collections.ObjectModel;
 using System.IO;
-using System.Runtime.InteropServices;
 using Cloo;
 
 namespace Clootils

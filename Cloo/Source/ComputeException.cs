@@ -29,11 +29,11 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 #endregion
 
+using System;
+using System.Diagnostics;
+
 namespace Cloo
 {
-    using System;
-    using System.Diagnostics;
-
     /// <summary>
     /// Represents an error state that occurred while executing an OpenCL API call.
     /// </summary>

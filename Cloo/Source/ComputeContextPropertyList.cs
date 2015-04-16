@@ -29,13 +29,13 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 #endregion
 
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.Diagnostics;
+
 namespace Cloo
 {
-    using System;
-    using System.Collections;
-    using System.Collections.Generic;
-    using System.Diagnostics;
-
     /// <summary>
     /// Represents a list of <see cref="ComputeContextProperty"/>s.
     /// </summary>
