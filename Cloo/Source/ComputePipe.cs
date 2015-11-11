@@ -41,7 +41,7 @@ namespace Cloo
 	/// </summary>
 	/// <remarks> A memory object that connects two endpoints to transmit and receive an ordered sequence of data items. </remarks>
 	/// <seealso cref="ComputeMemory"/>
-	public abstract class ComputePipe : ComputeMemory
+	public class ComputePipe : ComputeMemory
     {
         #region Properties
 
