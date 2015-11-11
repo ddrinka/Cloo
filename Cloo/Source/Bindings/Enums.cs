@@ -667,6 +667,17 @@ namespace Cloo
         Filtering = 0x1154
     }
 
+	/// <summary>
+	/// The pipe info query symbols.
+	/// </summary>
+	public enum ComputePipeInfo : int
+	{
+		/// <summary> </summary>
+		PacketSize = 0x1120,
+		/// <summary> </summary>
+		MaxPackets = 0x1121
+	}
+
     /// <summary>
     /// 
     /// </summary>
